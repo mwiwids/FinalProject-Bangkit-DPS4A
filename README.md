@@ -9,6 +9,6 @@ Important part is to understand how to upload an image file to the server (Googl
 
 Some additional work with HTML, CSS and Javascript and the model front-end looks bright, simply and user friendly, even compatible with mobile phones.
 
-Link to web application: 
+Link to web application: http://finalproject-bangkit-dps4a.appspot.com/
 
-Link to Kagle dataset: 
+Link to Kagle dataset: https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
