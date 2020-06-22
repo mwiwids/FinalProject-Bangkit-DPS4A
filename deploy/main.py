@@ -4,21 +4,18 @@ from flask import Flask, request, render_template
 from werkzeug.utils import secure_filename
 
 # Import Keras dependencies
-from tensorflow.keras.models import model_from_json
+from keras.models import model_from_json
 from tensorflow.python.framework import ops
 from keras.preprocessing import image
 
 # Import other dependecies
 import numpy as np
-# import h5py
-# from PIL import Image
-# import PIL
 import os
-import sys
+# import sys
 
 
 # Path to our saved model
-sys.path.append(os.path.abspath("./model"))
+# sys.path.append(os.path.abspath("./model"))
 ops.reset_default_graph()
 
 # ::: Flask App Engine :::

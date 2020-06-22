@@ -8,4 +8,3 @@ Keras-Preprocessing==1.1.2
 numpy==1.18.1
 scikit-image==0.17.2
 tensorflow==2.0.0a0
-keras==2.3.1
