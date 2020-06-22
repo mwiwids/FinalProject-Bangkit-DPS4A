@@ -1,7 +1,7 @@
 # Plant Disease Classification
 This projects includes both back-end (Keras, Flask with dependencies) and front-end/deployement (HTML, CSS, JS) parts. The project perform plant disease classification using VGG-16 with pretraining model. Saved files of inspected models are saved on specific folders in project directory.
 
-The accuracy of the model is approximately 90%. 
+The validation accuracy of the model is 87.29%. 
 
 For deploying I decided to use Flask instead of Django because of it simplicity and compatibility with Amazon Web Services (AWS) and Google Cloud Storage (GCS). That works fine. App Engine in GCS is a perfect tool for deploying a Keras model as web application. Do not forget to carefully upload your deployment environment and crate Python YAML file that the server understand what is configuration of your application.
 
