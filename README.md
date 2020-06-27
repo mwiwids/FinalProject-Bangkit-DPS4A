@@ -12,3 +12,5 @@ Some additional work with HTML, CSS and Javascript and the model front-end looks
 Link to web application: http://finalproject-bangkit-dps4a.appspot.com/
 
 Link to Kagle dataset: https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
+
+Link to Presentation: https://docs.google.com/presentation/d/151jL5ancaQNPCFNrgH_eZEjYdGuNgeFqI8OO4h4OlaE/edit?usp=sharing
