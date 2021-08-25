@@ -7,4 +7,4 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 numpy==1.18.1
 scikit-image==0.17.2
-tensorflow==2.0.0a0
+tensorflow==2.5.1
